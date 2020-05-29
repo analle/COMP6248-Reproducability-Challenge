@@ -1,6 +1,6 @@
 # COMP6248-Reproducability-Challenge
 
-reproducibility report
+Reproducibility report
 
 Paper title: DELTA: DE EP L EARNING T RANSFER USING F EATURE
 M AP WITH A TTENTION FOR C ONVOLUTIONAL N ET -
